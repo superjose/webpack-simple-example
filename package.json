@@ -4,7 +4,7 @@
   "description": "Just a quick and dirty example on how Webpack is integrated into the project, and how to use without any frameworks or libraries.",
   "main": "index.js",
   "scripts": {
-    "build": "webpack"
+    "build": "webpack --mode=development"
   },
   "repository": "https://github.com/superjose/webpack-simple-example.git",
   "author": "Jose Asilis <superjose_49@hotmail.com>",
